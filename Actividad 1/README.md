@@ -41,8 +41,12 @@
       a la URL dada por las cabeceras.
 
 
-6. Utilizando el filtro de captura para la interfaz de red Wireshark, analiza la petición al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu 
-   ordenador y la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Google. 
+6. Utilizando el filtro de captura para la interfaz de red Wireshark, analiza la petición al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu ordenador y la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Google. 
 
-   - 
+   - Viendo en el WireShark, y haciendo un filtrado de los Portocolos (TCP) comprobamos que "Destination" sea nuestra IP.
+     Dirección de Google: **142.250.184.13**
+   
+   C:\Users\ramon\OneDrive\Escriptori\GIMBE 21-22\2nd Curso
+   
+   
 
