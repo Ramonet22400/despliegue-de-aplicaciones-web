@@ -45,8 +45,5 @@
 
    - Viendo en el WireShark, y haciendo un filtrado de los Portocolos (TCP) comprobamos que "Destination" sea nuestra IP.
      Dirección de Google: **142.250.184.13**
-   
-   ![IP google](\Users\ramon\OneDrive\Escriptori\GIMBE 21-22\2nd Curso\IP google.jpg)
-   
-   
 
+![IP google](https://user-images.githubusercontent.com/113515330/192507905-33428fba-c9ad-48ac-bef0-6735a2fcfbfe.jpg)
